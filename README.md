@@ -1,10 +1,26 @@
-- 👋 Hi, I’m Samuel Cuenco
-- 👀 I’m interested in computer programming and web development.
-- 🌱 I’m currently learning more web development.
-- 💞️ I’m looking to collaborate on web development.
-- 📫 How to reach me by email: cuencosamuelv@gmail.com
-- 😄 Pronouns: They/them
-- ⚡ Fun fact: I am actively trying to contribute to the coding community ^_^
+<h1>About Me</h1>
+<p>Hi, I'm Samuel! I'm a passionate developer with a keen interest in web development and programming. I've dabbled in building websites and crafting Discord bots, and I'm always eager to learn new technologies. My goal is to become a skilled computer engineer, solving complex problems and creating innovative solutions.</p>
+
+<h2>Skills</h2>
+<ul>
+  <li>Web Development: HTML, CSS, JavaScript, React.js</li>
+  <li>Programming: Python, Node.js</li>
+  <li>Database: MongoDB</li>
+  <li>Other: Git, Version Control</li>
+</ul>
+
+<h2>Projects</h2>
+<p>
+  <a href="https://samuelcuenco.netlify.app/">Personal Website</a>
+</p>
+
+<p>While I haven't made significant open-source contributions yet, I'm committed to giving back to the developer community. I'm open to collaborating on projects and sharing knowledge with others.</p>
+
+<h2>Contact</h2>
+<p>
+  Email: cuencosamuelv@gmail.com<br>
+  LinkedIn: https://www.linkedin.com/in/samuel-cuenco
+</p>
 
 <!---
 Samuel-Cuenco/Samuel-Cuenco is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
